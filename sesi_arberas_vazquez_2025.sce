@@ -1,7 +1,6 @@
-//4-praktika
 //Andoni Vázquez eta Beñat Arberas
 
-//Aldagaiak:
+//VARIABLES:
 mezua="Egun on      "
 disp(mezua)
 srate = 1 // karaktere igortzeko rate(Hz)
@@ -174,3 +173,4 @@ datahr=IQ2hex(IQr)
 datasr=hex2data(datahr)
 datar=ascii(datasr)
 disp(datar)
+
